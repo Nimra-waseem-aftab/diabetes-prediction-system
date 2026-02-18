@@ -3,7 +3,6 @@
 ## Overview
 
 The Diabetes Prediction System is a machine learning–based predictive model designed to estimate the likelihood of diabetes using clinically relevant medical attributes. The project demonstrates the application of supervised learning techniques in healthcare analytics and emphasizes the importance of early risk detection through data-driven decision-making.
-
 By leveraging structured medical data, the system provides a classification output indicating whether an individual is at risk of developing diabetes. This project reflects the practical integration of artificial intelligence in preventive healthcare solutions.
 
 ## Project Objectives
@@ -13,11 +12,10 @@ By leveraging structured medical data, the system provides a classification outp
 * Develop and evaluate multiple classification models
 * Compare model performance using standard evaluation metrics
 * Build a robust and generalizable predictive system
-
+  
 ## Dataset Description
 
 The model is trained using medical diagnostic attributes, including:
-
 * Glucose Level
 * Blood Pressure
 * Skin Thickness
@@ -25,8 +23,6 @@ The model is trained using medical diagnostic attributes, including:
 * Body Mass Index (BMI)
 * Diabetes Pedigree Function
 * Age
-
-These features are used to predict the binary outcome indicating the presence or absence of diabetes risk.
 
 ## Methodology
 
@@ -55,7 +51,7 @@ These features are used to predict the binary outcome indicating the presence or
 
    * Performance comparison using evaluation metrics
    * Selection of the most reliable and generalizable model
-
+   
 ## Technologies and Tools
 
 * Python
@@ -64,7 +60,7 @@ These features are used to predict the binary outcome indicating the presence or
 * Scikit-learn
 * Matplotlib
 * Seaborn
-
+  
 ## Model Evaluation Metrics
 
 Model performance is assessed using standard classification metrics:
